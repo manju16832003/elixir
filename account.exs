@@ -1,3 +1,4 @@
+# To run > elixir account.exs
 defmodule Account do
 	def balance(initial, spending) do
 		initial - spending

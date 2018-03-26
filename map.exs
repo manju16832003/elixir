@@ -1,6 +1,5 @@
+# How to Run > elixir map.exs
 # Examples
-
-
 person = %{"firstname": "Manjunath Reddy"}
 
 # Return map
