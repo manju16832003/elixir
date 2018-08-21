@@ -1,6 +1,10 @@
 # Elixir:
 Elixir examples and Tutorials
 
+https://medium.com/@zolotarev_k/elixir-nerves-for-controlling-your-car-part-1-3474afed4749
+
+https://nerves-project.org/watch/
+
 
 # Elixir Code School
 
