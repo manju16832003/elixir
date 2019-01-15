@@ -14,6 +14,8 @@ http://campus.codeschool.com/courses/try-elixir/
 
 https://medium.com/erlang-battleground/erlang-lessons-fe800c51af4f
 
+https://learnyousomeerlang.com/introduction
+
 ### Resources
 
 https://github.com/h4cc/awesome-elixir#algorithms-and-data-structures
